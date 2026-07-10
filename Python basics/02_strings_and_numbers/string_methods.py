@@ -1,6 +1,11 @@
-sentence = "I am learning Python"
+name = "harshu"
 
-print(sentence.replace("Python", "Data Science"))
-print(sentence.find("learning"))
-print("Python" in sentence)
-print(sentence.count("a"))
+print(name)
+print(name.capitalize())
+print(name.isalpha())
+print(name.islower())
+print(name.upper())
+print(name.lower())
+print(len(name))
+print(name[3])
+print(name[5])
