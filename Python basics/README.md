@@ -6,7 +6,8 @@
 - Data Types
 -  Strings
 -  Numbers
-
+- Inputs
+- Lists
 Learning Source:
 Bro Code Python Course
 
