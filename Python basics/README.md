@@ -4,13 +4,18 @@
 
 - Variables
 - Data Types
--  Strings
--  Numbers
-- Inputs
+- Strings
+- Numbers
+- Inputs and outputs
 - Lists
+- Tuples
+- Functions
+
 Learning Source:
-Bro Code Python Course
+freeCodecamp Python Course
 
 Goal:
-Build a strong Python foundation for Data Science.
-
+- Build a strong Python foundation for Data Science.
+- Practice programming regularly
+- Prepare for Data Science interviews
+- Improve problem-solving skills
