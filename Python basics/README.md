@@ -10,6 +10,8 @@
 - Lists
 - Tuples
 - Functions
+- Conditional statements
+- Dictionaries
 
 Learning Source:
 freeCodecamp Python Course
