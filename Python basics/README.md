@@ -12,6 +12,7 @@
 - Functions
 - Conditional statements
 - Dictionaries
+- Looping statements
 
 Learning Source:
 freeCodecamp Python Course
