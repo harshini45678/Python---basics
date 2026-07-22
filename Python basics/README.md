@@ -13,6 +13,8 @@
 - Conditional statements
 - Dictionaries
 - Looping statements
+- 2D lists
+- Nested loops
 
 Learning Source:
 freeCodecamp Python Course
